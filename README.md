@@ -13,32 +13,32 @@
 
 
 <!--
-**cramirez88/cramirez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**insafrachico/insafrachico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  
-  <h1 align='center'>Hi, I'm Christian Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  <h1 align='center'>Hi, I'm Insaf Rachico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   
   <p align="center">
-      <a href="https://github.com/cramirez88/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+      <a href="https://github.com/insafrachico/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   </p>
 
 <!-- Social icons section -->
 <h3 align='center'>Connect With Me:</h3>
 <p align="center">
-  <a href="https://twitter.com/R97Christian"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/insafrachico"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/cramirez88"><img width="32px" alt="Dev.to" title="cramirez88 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/insafrachico"><img width="32px" alt="Dev.to" title="insafrachico Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/cramirez12/"><img width="32px" alt="linkedin" title="LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"/></a>
+  <a href="https://linkedin.com/in/insafrachico/"><img width="32px" alt="linkedin" title="LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/christiann_10/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"/></a>
+  <a href="https://instagram.com/insafrachico/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"/></a>
 </p>
 
 <div>
   <p> 🔭 I’m currently working on Algorithms and Data Structures</p>
-  <p> 📫 How to reach me: <a href='mailto: christian.r0602@gmail.com'>christian.r0602@gmail.com</a></p>
+  <p> 📫 How to reach me: <a href='mailto: insafrachico@gmail.com'>insafrachico@gmail.com</a></p>
   <p>💬 About me : I am a recent Coding Dojo graduate where I have completed Basic Web-fundamentals, the python stack, and the MERN stack. To further my knowledge and understanding, I am building new projects and learning new tools and technologies.
 </div>
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 
 <!--
-**cramirez88/cramirez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**insafrachico/insafrachico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
